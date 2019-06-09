@@ -26,7 +26,7 @@ def find_the_cheese(array)
   #binding.pry
   cheese_types = ["cheddar", "gouda", "camembert"]
   array.find do |element|
-  binding.pry
+   cheese_types.include?(element)
  end
                             #returns first ellement that is cheese
               #  returns nil if does not contain trype of cheese
