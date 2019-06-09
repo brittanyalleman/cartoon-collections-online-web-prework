@@ -17,9 +17,9 @@ def long_planeteer_calls(array)
       array.count      #   want to count letters in words
         word=array.count
                if 4 < word
-               return true
-             else
                return false
+             else
+               return true
 end
 end
 def find_the_cheese# code an argument here
