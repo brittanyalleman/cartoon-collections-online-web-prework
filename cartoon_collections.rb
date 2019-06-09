@@ -23,9 +23,10 @@ def long_planeteer_calls(array)
      end
 end
 def find_the_cheese(array)
-  cheese=cheese_types
-  if array.include? cheese
-  
+  binding.pry
+  array.find do |element|
+
+ end 
                             #returns first ellement that is cheese
               #  returns nil if does not contain trype of cheese
   # the array below is here to help
