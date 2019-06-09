@@ -26,7 +26,7 @@ def find_the_cheese(array)
   binding.pry
   array.find do |element|
 
- end 
+ end
                             #returns first ellement that is cheese
               #  returns nil if does not contain trype of cheese
   # the array below is here to help
