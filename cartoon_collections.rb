@@ -31,5 +31,5 @@ def find_the_cheese(array)
               #  returns nil if does not contain trype of cheese
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
-end
+
 end
