@@ -15,6 +15,7 @@ end
 def long_planeteer_calls(array)
     array.join  # want to turn array into string
       array.count      #   want to count letters in words
+        word=array.count
                if 4 < word
                return true
              else
