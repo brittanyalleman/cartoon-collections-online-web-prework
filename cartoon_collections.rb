@@ -12,8 +12,13 @@ def summon_captain_planet(array)
   end
 end
 
-def long_planeteer_calls# code an argument here
-  # Your code here
+def long_planeteer_calls(array)
+   array.     want to turn array into string
+               want to count letters in words
+               if 4 < word
+               return true 
+             else
+               return false
 end
 
 def find_the_cheese# code an argument here
