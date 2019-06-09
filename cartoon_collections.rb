@@ -13,10 +13,10 @@ def summon_captain_planet(array)
 end
 
 def long_planeteer_calls(array)
-   array.     want to turn array into string
-               want to count letters in words
+   #array.     want to turn array into string
+            #   want to count letters in words
                if 4 < word
-               return true 
+               return true
              else
                return false
 end
